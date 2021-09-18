@@ -19,4 +19,4 @@ winit = "0.25"
 wgpu = "0.10"
 rand = "0.8"
 bytemuck = { version = "1.7", features = [ "derive" ] }
-futures-lite = "1"
+futures = "0.3"
